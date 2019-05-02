@@ -7,8 +7,8 @@
 ### 环境：
 - 实验室台式机：win7-64位
 - Anaconda3-Python3.5
-- TersorFlow 1.10.0
-- Keras - 2.2.4
+- TersorFlow-1.10.0
+- Keras-2.2.4
 
 ### 笔记：
 - 代码笔记：[手写数字识别-DL-神经网络](https://github.com/anliux/ML-tyro/blob/master/docs/demo/HandDigitRecog/handwriting_digit.ipynb)
