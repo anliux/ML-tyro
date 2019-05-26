@@ -14,13 +14,15 @@
 - [titanic.zip](https://github.com/anliux/ML-tyro/blob/master/docs/demo/Titanic/titanic.zip)
 
 ### 笔记：
+- 可视化笔记：[titanic_plot]()
 - 代码笔记：[手写数字识别-DL-神经网络](https://github.com/anliux/ML-tyro/blob/master/docs/demo/HandDigitRecog/handwriting_digit.ipynb)
 - 载入数据的梯子问题：[ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接](https://github.com/anliux/ML-tyro/blob/master/docs/demo/HandDigitRecog/load_data.py)
   - 最终报出新的问题卡壳了之后使用有效梯子解决了这个问题，但参考多篇博文，这个代码应该是有效的。
 
 ### 小结：
-- 深度学习第一站：DL版的'helloworld'
-- 学习了简单的神经网络层之后的首次实战
+- kaggle第一站：入门项目titanic，kaggle版的'helloworld'
+- 从认识kaggle，到选择入门项目，到可视化，到.......
+
 - 使用三层或四层全连接神经网络并将参数设置为各种值后从中找出使结果较好的值
 
 (未完待续。。。。。。)
